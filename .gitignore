@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/DemoWebApi/.vs/DemoWebApi/v15
+/DemoWebApi/DemoWebApi/bin/Debug/netcoreapp2.0
+/DemoWebApi/DemoWebApi/obj
